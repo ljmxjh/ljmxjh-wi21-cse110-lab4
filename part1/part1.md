@@ -34,4 +34,4 @@
     
 16. "==" will convert both side into same type when comparing and only consider the value within string, char, etc.\
     "===" will consider the type of both sides when doing the comparsion and will not convert them into same type
-17. 
+17. It will first go into "if" statement which compare 2 and true and as we mention above it returns false, therefore it goes into the next "else if" statement. Since (2==2) is always ture, it will send the message of "How are you" to console and end the if statement.
