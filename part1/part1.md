@@ -13,5 +13,8 @@
 13. A. alert(student.name)
     B. alert(student['Grad Year'])
     C. student.greeting()
-    D. 
+    D. alert(student['Favorite Teacher'].name)
+    E. alert(student.courseLoad[0])
+    
+14. 
 
