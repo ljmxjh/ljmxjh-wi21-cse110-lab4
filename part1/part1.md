@@ -10,7 +10,7 @@
 10. It will has an error since "discounted price" is defined as a local constant variable in the loop and could not be acceessed outside the loop
 11. It will has an error of reference since we defined "final price" as gloabl constant in the begining of the function but tried to assign a dynamic value in the loop
 12. It will return an empty list  based on the "discounted" array depends on the variable "final price" but there is an error to access it. 
-13. A. alert(student.name)
+13. A. alert(student.name) /
     B. alert(student['Grad Year'])
     C. student.greeting()
     D. alert(student['Favorite Teacher'].name)
