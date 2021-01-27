@@ -25,4 +25,11 @@
     G. it will show "3undefined" since it concatenate the string "3" with "undefined"\ 
     H. it will show "NAN" since the undefined has the value of "NAN" and the subtraction between 3 and "NaN" result in "NAN" as well
     
-15. A. 
+15. A. it will result in true since '2' has a ascii value of 50 which is greater than 1\
+    B. it will result in false since char '2' has a greater ascii value compare to the char '12'\
+    C. it will result in true since "==" will only compare the actual value within a char therefore the same as 2==2\
+    D. it will result in false since "===" will consider the type of object on both side therefore an integer could not equal to a char\
+    E. it will result in false since true has a value of 1 which 1<2\
+    F. it will reuslt in true since boolean(2) result in true and true== true
+    
+16. 
