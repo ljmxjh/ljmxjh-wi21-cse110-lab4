@@ -32,4 +32,6 @@
     E. it will result in false since true has a value of 1 which 1<2\
     F. it will reuslt in true since boolean(2) result in true and true== true
     
-16. 
+16. "==" will convert both side into same type when comparing and only consider the value within string, char, etc.\
+    "===" will consider the type of both sides when doing the comparsion and will not convert them into same type
+17. 
