@@ -22,7 +22,7 @@
     D. it will show in "3null" since it concatenate the char '3' and string "null"\
     E. it will show 4 since it consider the value of "true" as 1 and 3+1=4\
     F. it will show 0 since it consider both "null" and "false" as 0 value and 0+0=0\
-    G. it will show "3undefined" since it concatenate the string "3" with "undefined"\ 
+    G. it will show "3undefined" since it concatenate the string "3" with "undefined" \
     H. it will show "NAN" since the undefined has the value of "NAN" and the subtraction between 3 and "NaN" result in "NAN" as well
     
 15. A. it will result in true since '2' has a ascii value of 50 which is greater than 1\
