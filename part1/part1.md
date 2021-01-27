@@ -36,4 +36,4 @@
     "===" will consider the type of both sides when doing the comparsion and will not convert them into same type
 17. It will first go into "if" statement which compare 2 and true and as we mention above it returns false, therefore it goes into the next "else if" statement. Since (2==2) is always ture, it will send the message of "How are you?" to console and end the if statement.
 18. see the js file
-19.
+19. it will return a array of [6,8,10]. In the function modifyArray, it create a new array that has the same size as input, and call back the function of dosomething, which let each element in the original array plus 2. Then the function multiply the callback result by 2 to get 6=(1+2)*2, 8=(2+2)*2, 10=(3+2)*2
