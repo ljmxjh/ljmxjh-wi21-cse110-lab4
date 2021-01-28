@@ -8,7 +8,7 @@ function fu(){
       rareCars: 2,
   }
 for (const prop in statistics) {
-   if(prop[0]=="r" || statistics[prop]%2==1){
+   if(prop[0]=="r" || prop[0]="R"||statistics[prop]%2==1){
      console.log(statistics[prop]);
 }
 }
